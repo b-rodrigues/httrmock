@@ -32,4 +32,4 @@ Imports:
     whoami
 Remotes:
     hadley/httr,
-    tidyverse/glue
+    b-rodrigues/glue@802a241
